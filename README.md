@@ -1,3 +1,3 @@
-# snowaddict
+#Snowaddict
 
-## The Snowaddict Project
+php mini-project using mvc model and crud pattern
